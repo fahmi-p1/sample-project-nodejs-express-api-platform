@@ -12,7 +12,7 @@ Note : To using this sample project, make sure you already installed NodeJS in t
 cd sample-project-repositores
 npm install
 ```
-3. Wait until done, after that upload MySQL MariaDB database into localhost
+3. Wait until done, after that import MySQL MariaDB database into localhost
 4. If database is done created and imported, now you can start the Express sample project in your local machine by run this command :
 ```
 cd sample-project-repositores
