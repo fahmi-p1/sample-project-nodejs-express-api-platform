@@ -26,4 +26,5 @@ nodemon app.js
 Apache License 2.0
 
 ## Author of This Project
-[Fahmi P](https://www.instagram.com/himawanfahmi/)
+Fahmi P
+[LinkedIn](https://www.linkedin.com/in/himawanfahmi/)
