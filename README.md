@@ -7,7 +7,7 @@ This project is an NodeJS Express Framework, which is provide movies & user data
 Note : To using this sample project, make sure you already installed NodeJS in the local machine. Node JS version 14 is Recommended.
 
 1. Clone project, using CLI, [Sourcetree](https://www.sourcetreeapp.com/) OR you can download the project.
-2. Install npm on the project, by use this command :
+2. Install Node Modules on the project, by run this command :
 ```
 cd sample-project-repositores
 npm install
